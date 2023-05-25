@@ -1,0 +1,7 @@
+links úteis para o projeto:
+
+slides da aula:
+https://docs.google.com/presentation/d/1RgM_cWwaFyiK41f8x0NwLfXRa9r8wkLo/edit#slide=id.p2
+
+repositorio git do professor com codigo da aula:
+https://github.com/tlcdio/LabOOJava
